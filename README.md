@@ -1,6 +1,6 @@
 # git_training
 Test-Repo for Git training
-new line added
+2new lines added 
 
 $ history
     1  git config --global user.name "sap4ever"
